@@ -7,6 +7,3 @@ scr folder contains useful functions and classes for the analysis.
 
 pipeline folder contains codes for training, validation, and prediction.        
 
-model folder contains saved model weights.  
-
-submission folder contains final submission files.   
