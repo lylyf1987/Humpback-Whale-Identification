@@ -34,3 +34,6 @@ def main():
 
     np.save("../submission/nw_prob.npy", res_prob)
     np.save("../submission/nw_name.npy", name_array_test)
+
+if __name__ == "__main__":
+    main()
